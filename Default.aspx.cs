@@ -23,6 +23,7 @@ public partial class _Default : System.Web.UI.Page
         if (!Page.IsPostBack)
         {
             //Reset error
+//update new comment
             errDvfldUserID.Visible = false;
             errDvfldPass.Visible = false;
             errfldMain.Text = "";
