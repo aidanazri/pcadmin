@@ -9,7 +9,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <link rel="icon" type="image/png" href="../Img/uem_logo.jpg"/>
-    <title>WACH FEEDBACK SYSTEM (1st trigger jenkins)</title>
+    <title>WACH FEEDBACK SYSTEM (1st trigger jenkins @ edgenta cloud)</title>
     <link href="Content/bootstrap.css" rel="stylesheet" />
     <link href="Content/bootstrap-datetimepicker.css" rel="stylesheet" />
 
