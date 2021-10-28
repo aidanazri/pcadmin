@@ -5,7 +5,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>E-Tender (Test)</title>
+    <title>menu for peti cadangan</title>
     <link href="Content/bootstrap.css" rel="stylesheet" />
     <link href="Content/bootstrap-datetimepicker.css" rel="stylesheet" />
 </head>
